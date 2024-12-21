@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Exercise1.dir\\Debug\\test.obj",
+            "outputs": [
+                "C:\\Users\\rebec\\C++ kod\\tng033-labs\\lab1\\lab1\\build\\Exercise1.dir\\Debug\\vc143.pdb",
+                "Exercise1.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

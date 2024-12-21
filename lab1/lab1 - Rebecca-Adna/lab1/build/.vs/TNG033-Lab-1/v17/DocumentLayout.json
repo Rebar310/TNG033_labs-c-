@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rebec\\C\u002B\u002B kod\\tng033-labs\\lab1\\lab1\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D69D29F-64D7-3BA5-95DC-BF426651BDE9}|Exercise1.vcxproj|C:\\Users\\rebec\\C\u002B\u002B kod\\tng033-labs\\lab1\\lab1\\code\\set.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D69D29F-64D7-3BA5-95DC-BF426651BDE9}|Exercise1.vcxproj|C:\\Users\\rebec\\C\u002B\u002B kod\\tng033-labs\\lab1\\lab1\\code\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D69D29F-64D7-3BA5-95DC-BF426651BDE9}|Exercise1.vcxproj|C:\\Users\\rebec\\C\u002B\u002B kod\\tng033-labs\\lab1\\lab1\\code\\set.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "set.hpp",
+              "DocumentMoniker": "C:\\Users\\rebec\\C\u002B\u002B kod\\tng033-labs\\lab1\\lab1\\code\\set.hpp",
+              "RelativeDocumentMoniker": "..\\code\\set.hpp",
+              "ToolTip": "C:\\Users\\rebec\\C\u002B\u002B kod\\tng033-labs\\lab1\\lab1\\code\\set.hpp",
+              "RelativeToolTip": "..\\code\\set.hpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T16:17:47.664Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "set.cpp",
+              "DocumentMoniker": "C:\\Users\\rebec\\C\u002B\u002B kod\\tng033-labs\\lab1\\lab1\\code\\set.cpp",
+              "RelativeDocumentMoniker": "..\\code\\set.cpp",
+              "ToolTip": "C:\\Users\\rebec\\C\u002B\u002B kod\\tng033-labs\\lab1\\lab1\\code\\set.cpp",
+              "RelativeToolTip": "..\\code\\set.cpp",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAD0BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T13:05:56.685Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\rebec\\C\u002B\u002B kod\\tng033-labs\\lab1\\lab1\\code\\test.cpp",
+              "RelativeDocumentMoniker": "..\\code\\test.cpp",
+              "ToolTip": "C:\\Users\\rebec\\C\u002B\u002B kod\\tng033-labs\\lab1\\lab1\\code\\test.cpp",
+              "RelativeToolTip": "..\\code\\test.cpp",
+              "ViewState": "AQIAADwBAAAAAAAAAAAAAEUBAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T16:10:17.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

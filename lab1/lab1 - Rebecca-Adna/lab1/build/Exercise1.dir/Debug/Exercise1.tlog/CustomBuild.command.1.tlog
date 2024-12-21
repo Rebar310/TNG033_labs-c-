@@ -1,0 +1,10 @@
+^C:\USERS\REBEC\C++ KOD\TNG033-LABS\LAB1\LAB1\CODE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/rebec/C++ kod/tng033-labs/lab1/lab1/code" "-BC:/Users/rebec/C++ kod/tng033-labs/lab1/lab1/build" --check-stamp-file "C:/Users/rebec/C++ kod/tng033-labs/lab1/lab1/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
